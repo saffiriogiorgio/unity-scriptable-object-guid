@@ -50,9 +50,9 @@ And access via
 
     private Gun myGun;
 
-    // . . .
+    // ...
 
-    var gunGUID = myGun.GetGUID;
+    var gunGUID = myGun.Guid;
     Debug.Log(gunGUID);
 ```
 
