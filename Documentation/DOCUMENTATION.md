@@ -2,6 +2,10 @@
 
 Table of Content
 
+- [Installation](https://github.com/saffiriogiorgio/unity-scriptable-object-guid/edit/main/Documentation/DOCUMENTATION.md#Installation)
+- [Usage](https://github.com/saffiriogiorgio/unity-scriptable-object-guid/edit/main/Documentation/DOCUMENTATION.md#Usage)
+- [How it works](https://github.com/saffiriogiorgio/unity-scriptable-object-guid/edit/main/Documentation/DOCUMENTATION.md#How-it-works)
+
 # Installation
 
 Prerequisite: this repository use the Unity Package Manager (UPM), you need to use Unity Version >= 2018.3
