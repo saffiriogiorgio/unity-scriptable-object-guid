@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0b83c6816eeefc48a481b7d5a8d717f, type: 3}
+  m_Name: RedPillow_Card
+  m_EditorClassIdentifier: 
+  m_serializedGuid: a64913f0f68d8f4458ea2d8da6730385
+  m_name: Red Pillow
+  m_description: A very comfortable red pillow
+  m_attack: 100
+  m_defense: 800
+  m_level: 2

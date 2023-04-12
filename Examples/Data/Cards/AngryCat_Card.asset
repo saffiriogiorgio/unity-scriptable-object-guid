@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0b83c6816eeefc48a481b7d5a8d717f, type: 3}
+  m_Name: AngryCat_Card
+  m_EditorClassIdentifier: 
+  _guid:
+    m_Value0: 2461325858
+    m_Value1: 2212194372
+    m_Value2: 149647984
+    m_Value3: 937239774
+  m_name: Angry Cat
+  m_description: A very angry cat
+  m_attack: 300
+  m_defense: 200
+  m_level: 1

@@ -1,0 +1,22 @@
+{
+  "name": "com.giosaffi.unity-scriptable-object-guid",
+  "version": "0.1.0",
+  "displayName": "Scriptable Object with GUID",
+  "description": "Unity's Scriptable Object with a unique UID",
+  "unity": "2021.3",
+  "unityRelease": "19f1",
+  "changelogUrl": "https://github.com/saffiriogiorgio/unity-scriptable-object-guid/blob/main/LICENSE",
+  "licensesUrl": "https://github.com/saffiriogiorgio/unity-scriptable-object-guid/blob/main/LICENSE",
+ "keywords": [
+    "Scriptable",
+    "Guid",
+    "UID",
+    "Serialization",
+    "Scriptable Object"
+  ],
+  "author": {
+    "name": "Giorgio Saffirio",
+    "email": "saffirio.giorgio@gmail.com",
+    "url": "saffiriogiorgio.com"
+  }
+}

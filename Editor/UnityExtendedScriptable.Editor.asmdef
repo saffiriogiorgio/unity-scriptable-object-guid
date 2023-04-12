@@ -1,0 +1,16 @@
+{
+    "name": "UnityExtendedScriptable.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:eaef43a28bd865746ad44e1fe999c534"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

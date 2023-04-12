@@ -1,0 +1,17 @@
+{
+    "name": "UnityExtendedScriptable.Test",
+    "rootNamespace": "",
+    "references": [
+        "GUID:eaef43a28bd865746ad44e1fe999c534",
+        "GUID:3355a395e48df7048a351eb60c1e41b2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
