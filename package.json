@@ -7,7 +7,8 @@
   "unityRelease": "19f1",
   "changelogUrl": "https://github.com/saffiriogiorgio/unity-scriptable-object-guid/blob/main/LICENSE",
   "licensesUrl": "https://github.com/saffiriogiorgio/unity-scriptable-object-guid/blob/main/LICENSE",
- "keywords": [
+  "documentationUrl": "https://github.com/saffiriogiorgio/unity-scriptable-object-guid/blob/main/Documentation/DOCUMENTATION.md",
+  "keywords": [
     "Scriptable",
     "Guid",
     "UID",
@@ -18,5 +19,12 @@
     "name": "Giorgio Saffirio",
     "email": "saffirio.giorgio@gmail.com",
     "url": "saffiriogiorgio.com"
-  }
+  },
+  "samples": [
+    {
+      "displayName": "Basic Example",
+      "description": "Contains a basic example to see the usage of GUIDs on Scriptable Objects",
+      "path": "Samples~/BasicExample"
+    }
+  ]
 }
